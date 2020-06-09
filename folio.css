@@ -56,3 +56,20 @@ img {
 .burger {
   display: none;
 }
+.prez {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  min-height: 75vh;
+  align-self: center;
+}
+.cover img {
+  height: 60vh;
+}
+.intro {
+  flex: 2;
+}
+.intro-text h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
